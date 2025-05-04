@@ -1,0 +1,7 @@
+shared:
+  database:
+    driver: org.postgresql.Driver
+    type: postgresql
+    url: jdbc:postgresql://postgres:5432/artifactorydb
+    username: artifactory
+    password: password
